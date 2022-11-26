@@ -1,0 +1,22 @@
+.position-relative{
+    right: 50px;
+    top: 15px;
+}
+h1{
+    font-family: 'IM Fell English';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+h3{
+    font-family: 'IM Fell English';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+p{
+    font-family: 'IM Fell English';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
